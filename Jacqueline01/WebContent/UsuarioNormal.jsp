@@ -5,9 +5,8 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>USUARIO</title>
-<link href="css/estilo.css" type="text/css" media="all" text-align: center>
 </head>
-<body>
-<h1><p style="color:gray;">USUARIO NORMAL</p></h1>
+<body bgcolor = silver>
+<h1 aling = "center"><p style="color:Maroon;">USUARIO NORMAL</p></h1>
 </body>
 </html>
