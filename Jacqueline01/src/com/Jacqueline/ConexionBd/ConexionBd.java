@@ -11,7 +11,7 @@ public class ConexionBd {
     	Class.forName("com.mysql.jdbc.Driver");
     	
         coonec = DriverManager.getConnection("jdbc:mysql://localhost/appbanco","root","root");
-        System.out.println("CONECTADO A LA BD");
+        System.out.println("CONECTADO A LA DB");
         
     }catch (Exception e)
     {
