@@ -5,8 +5,9 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>ERROR</title>
+<link href="css/estilo.css" type="text/css" media="all" text-align: center>
 </head>
 <body>
-<h1><p style="color:gray;">ERRORL</p></h1>
+<h1><p style="color:gray;">ERROR</p></h1>
 </body>
 </html>
