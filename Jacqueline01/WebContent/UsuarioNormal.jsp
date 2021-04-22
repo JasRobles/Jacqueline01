@@ -7,6 +7,6 @@
 <title>USUARIO</title>
 </head>
 <body bgcolor = silver>
-<h2 aling = "center"><p style="color:Maroon;">USUARIO NORMAL</p></h2>
+<h1 aling = "center"><p style="color:Maroon;">USUARIO NORMAL</p></h1>
 </body>
 </html>
